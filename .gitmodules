@@ -1,0 +1,3 @@
+[submodule "xorg/xmonad"]
+	path = xorg/xmonad
+	url = git@github.com:cocu/xmonad-config.git

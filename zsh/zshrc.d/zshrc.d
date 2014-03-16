@@ -1,0 +1,1 @@
+/home/cocu/.dotfiles/zsh/zshrc.d

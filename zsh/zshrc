@@ -95,7 +95,9 @@ export PATH=$PATH:/home/cocu/bin/coins-utils
 # .zshrc.d
 
 if [ -d .zshrc.d ]; then
-  for file in `find .zshrc.d -mindepth 1`; do
+  for file in `find ~/.zshrc.d -mindepth 1`; do
     source $file
   done
 fi
+
+export PYTHONSTARTUP=~/.config/python/startup.py

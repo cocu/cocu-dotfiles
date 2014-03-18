@@ -1,0 +1,4 @@
+[submodule "xorg/xmonad/master"]
+	path = xorg/xmonad/master
+	url = git@github.com:cocu/xmonad-config
+	branch = master

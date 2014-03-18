@@ -10,8 +10,8 @@ xmonad-master:
 	ln -fs $(DOTFILES)/xorg/xmonad/master $(HOME)/.xmonad
 	ln -fs $(DOTFILES)/xorg/xmonad/master/xmobar.hs $(HOME)/.xmobarrc
 xmonad-mba:
-	ln -fs $(DOTFILES)/xorg/xmonad/mba $(HOME)/.xmonad
-	ln -fs $(DOTFILES)/xorg/xmonad/mba/xmobar.hs $(HOME)/.xmobarrc
+	ln -fs $(DOTFILES)/xorg/xmonad/macbook $(HOME)/.xmonad
+	ln -fs $(DOTFILES)/xorg/xmonad/macbook/xmobar.hs $(HOME)/.xmobarrc
 git:
 	ln -fs $(DOTFILES)/git/gitconfig $(HOME)/.gitconfig
 zsh:

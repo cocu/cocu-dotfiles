@@ -3,7 +3,7 @@ DOTFILES = $(shell pwd)
 all: zsh tmux xorg xmonad git
 
 xorg:
-	ln -fs $(DOTFILES)/xorg/xresources/monokai.dark $(HOME)/.Xresources
+	ln -fs $(DOTFILES)/xorg/xresources/first_xresources $(HOME)/.Xresources
 	ln -fs $(DOTFILES)/xorg/xdefaults $(HOME)/.Xdefaults
 xmonad:
 	ln -fs $(DOTFILES)/xorg/xmonad $(HOME)/.xmonad

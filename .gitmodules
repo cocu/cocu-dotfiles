@@ -1,8 +1,3 @@
-[submodule "xorg/xmonad/master"]
-	path = xorg/xmonad/master
+[submodule "xorg/xmonad"]
+	path = xorg/xmonad
 	url = git@github.com:cocu/xmonad-config
-	branch = master
-[submodule "xorg/xmonad/macbook"]
-	path = xorg/xmonad/macbook
-	url = git@github.com:cocu/xmonad-config
-	branch = macbook

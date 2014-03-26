@@ -64,17 +64,14 @@ alias poweroff='sudo poweroff'
 alias reboot='sudo reboot'
 alias shutdown='sudo shutdown'
 
-alias grub-reboot='sudo grub-reboot'
 alias sozsh='source ~/.zshrc'
 alias :q='exit'
 alias :Q='exit'
 alias vi='vim'
 
 alias ta='tmux_ornot'
-alias xbg='feh --bg-scale'
 alias pdb='python /usr/lib/python2.7/pdb.py'
 alias up='cd ..'
-alias multimc='XMODIFIERS= /home/cocu/etc/multimc/MultiMC'
 alias ocaml='ledit ocaml'
 
 alias mitmproxy-p9999='mitmproxy -p 9999'

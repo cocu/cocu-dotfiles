@@ -92,6 +92,7 @@ alias virtualenvwrapper='source /usr/bin/virtualenvwrapper.sh'
 
 #mba
 alias dropboxrestart='dropbox stop;dropbox start'
+alias wifi='wicd-curses'
 alias うぃふぃ='wicd-curses'
 alias tmux='tmux -2'
 

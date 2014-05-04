@@ -1,18 +1,17 @@
-urxvt.depth: 32
-urxvt.background: rgba:0000/0000/0000/bbbb
-urxvt.scrollBar: False
-urxvt.font: xft:Ricty for Powerline:size=13
-#urxvt.font: xft:Ricty:size=14.5
-urxvt.termName: rxvt-256color
-urxvt.loginShell: True
-urxvt.fading: 10
-urxvt.shading: 50
-urxvt.inputMethod: fcitx
-urxvt.preeditType: OverTheSpot
-urxvt.saveLines: 20000
-urxvt.perl-ext-common:default, clipboard
-urxvt.iso14755: False
-urxvt.iso14755_52: False
+URxvt.depth: 32
+URxvt.background: rgba:0000/0000/0000/bbbb
+URxvt.scrollBar: False
+URxvt.font: xft:Ricty for Powerline:size=13
+URxvt.termName: rxvt-256color
+URxvt.loginShell: True
+URxvt.fading: 10
+URxvt.shading: 50
+URxvt.inputMethod: fcitx
+URxvt.preeditType: OverTheSpot
+URxvt.saveLines: 20000
+URxvt.perl-ext-common:default, clipboard
+URxvt.iso14755: False
+URxvt.iso14755_52: False
 
 vmplayer.scrollBar: False
 

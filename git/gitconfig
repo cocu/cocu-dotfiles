@@ -9,3 +9,5 @@
 	user = cocu
 [core]
 	autocrlf = input
+[push]
+	default = nothing
